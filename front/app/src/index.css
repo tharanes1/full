@@ -1,0 +1,15 @@
+.navbar{
+  height: 80px;
+}
+.hero{
+  min-height: 100vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.bo{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
